@@ -1,0 +1,1 @@
+import{f as l}from"./index-yYKU2YBq.js";function o(){const o=l(null);let e=0;return{scrollSide:o,onScroll:l=>{const r=l.detail.scrollTop;o.value=0===r?"start":e===r?"end":"center",e=r},onScrolltoupper:()=>{o.value="start"},onScrolltolower:()=>{o.value="end"}}}export{o as u};
