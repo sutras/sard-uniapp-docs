@@ -1,1 +1,0 @@
-function n(n){return Array.isArray(n)?n:[n]}function r(n,r){return n.length==n.length&&n.every(((n,t)=>n===r[t]))}function t(n){for(let r=n.length-1;r>=0;r--){const t=~~(Math.random()*(r+1)),e=n[t];n[t]=n[r],n[r]=e}return n}export{r as a,t as s,n as t};
