@@ -1,1 +1,0 @@
-import{D as Y}from"./index-8t6gZryZ.js";const m=()=>({...Y.datetimePicker,...Y.datetimePickerPopout,...Y.datetimePickerInput}),M={y:"YYYY",yM:"YYYY-MM",yMd:"YYYY-MM-DD",yMdh:"YYYY-MM-DD HH",yMdhm:"YYYY-MM-DD HH:mm",yMdhms:"YYYY-MM-DD HH:mm:ss",hm:"HH:mm",hms:"HH:mm:ss"};export{m as d,M as m};
