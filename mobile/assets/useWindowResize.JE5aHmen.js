@@ -1,0 +1,1 @@
+import{ac as i,bh as n,U as o,bi as s}from"./index-oUblf4VL.js";function a(a){const t=i=>{a({windowWidth:i.size.windowWidth,windowHeight:i.size.windowHeight})};i((()=>{var i;null==(i=n)||i(t)})),o((()=>{var i;null==(i=s)||i(t)}))}export{a as u};
