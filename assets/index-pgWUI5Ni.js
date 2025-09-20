@@ -1,0 +1,1 @@
+import{_ as r,c as n,w as a,r as e,o as c,a as s}from"./index-Owch6gB-.js";const _={};function d(i,m){const o=e("DocHome"),t=e("SCFrontMatterProvider");return c(),n(t,{"front-matter":"%7B%22disableMarkdownLayout%22%3Atrue%2C%22nav%22%3A%7B%22hidden%22%3Atrue%7D%7D"},{default:a(()=>[s(o)]),_:1})}const p=r(_,[["render",d]]);export{p as default};
