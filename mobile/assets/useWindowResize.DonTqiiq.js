@@ -1,0 +1,1 @@
+import{ac as i,bi as n,T as o,bj as s}from"./index-UUj327QW.js";function a(a){const t=i=>{a({windowWidth:i.size.windowWidth,windowHeight:i.size.windowHeight})};i((()=>{var i;null==(i=n)||i(t)})),o((()=>{var i;null==(i=s)||i(t)}))}export{a as u};
