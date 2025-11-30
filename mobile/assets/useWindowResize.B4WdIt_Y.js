@@ -1,0 +1,1 @@
+import{ad as i,aj as n,U as a,bn as o}from"./index-Q1UvOtaH.js";function s(s){const d=i=>{s({windowWidth:i.size.windowWidth,windowHeight:i.size.windowHeight})};i((()=>{var i;null==(i=n)||i(d)})),a((()=>{var i;null==(i=o)||i(d)}))}export{s as u};
