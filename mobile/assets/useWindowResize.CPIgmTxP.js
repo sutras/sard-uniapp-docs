@@ -1,0 +1,1 @@
+import{ac as i,ai as n,T as a,br as o}from"./index-BziFm4WS.js";function s(s){const t=i=>{s({windowWidth:i.size.windowWidth,windowHeight:i.size.windowHeight})};i((()=>{var i;null==(i=n)||i(t)})),a((()=>{var i;null==(i=o)||i(t)}))}export{s as u};
