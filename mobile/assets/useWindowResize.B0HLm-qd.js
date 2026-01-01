@@ -1,0 +1,1 @@
+import{ae as i,ak as n,V as a,bt as o}from"./index-CsIijIfe.js";function s(s){const t=i=>{s({windowWidth:i.size.windowWidth,windowHeight:i.size.windowHeight})};i((()=>{var i;null==(i=n)||i(t)})),a((()=>{var i;null==(i=o)||i(t)}))}export{s as u};
