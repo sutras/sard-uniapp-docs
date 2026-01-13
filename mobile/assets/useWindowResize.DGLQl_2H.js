@@ -1,1 +1,0 @@
-import{ai as i,ao as n,Y as o,by as a}from"./index-CIK34r8I.js";function s(s){const t=i=>{s({windowWidth:i.size.windowWidth,windowHeight:i.size.windowHeight})};i((()=>{var i;null==(i=n)||i(t)})),o((()=>{var i;null==(i=a)||i(t)}))}export{s as u};
