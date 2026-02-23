@@ -1,1 +1,0 @@
-function n(n,t,r){return n<t?t:n>r?r:n}function t(n,t){return function(n,t=0){return Math.round(+(n+"e"+t))/10**t}(n-n%t+Math.round(n%t/t)*t,function(n){return(n=n.toString().split(".")[1])?n.length:0}(t))}function r(n,t){return n+Math.floor(Math.random()*(t-n+1))}export{n as c,t as m,r};
