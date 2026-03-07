@@ -1,0 +1,1 @@
+import{aj as i,ak as n,Y as a,by as o}from"./index-guz8A7cb.js";function s(s){const t=i=>{s({windowWidth:i.size.windowWidth,windowHeight:i.size.windowHeight})};i((()=>{var i;null==(i=n)||i(t)})),a((()=>{var i;null==(i=o)||i(t)}))}export{s as u};

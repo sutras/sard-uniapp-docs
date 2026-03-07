@@ -1,1 +1,0 @@
-import{aj as t,a6 as n}from"./index-YQ97ncyN.js";import{b as e}from"./_plugin-vue_export-helper.RJPplpcx.js";function r(r){const o=n();let i,s;function u(){if(s){const t=s;return s=void 0,t()}if(r)return e(r,o)}t((()=>{null==i||i.register({getRect:u})}));return{show:t=>{s=t,(r||s)&&(null==i||i.show())},_inject:function(t){i=t}}}export{r as u};
